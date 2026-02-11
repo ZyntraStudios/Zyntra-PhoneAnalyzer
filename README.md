@@ -18,8 +18,8 @@ Display the international and national prefixes.
 # Installation
 
 Clone this repository to your machine and navigate to the folder:
-git clone https://github.com/YOUR_USERNAME/phone-analyzer.git
-cd phone-analyzer
+git clone https://github.com/ZyntraStudios/Zyntra-PhoneAnalyzer
+cd Zyntra-PhoneAnalyzer
 
 Install the necessary library:
 pip install phonenumbers
